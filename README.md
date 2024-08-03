@@ -1,5 +1,5 @@
 # ROD
-A [Streamlit](https://streamlit.io/) dashboard to easily display the spreadsheet calculations seen on [Retire on Dividends](https://www.youtube.com/@RetireonDividends) in one place. Also used to track my portfolio
+A [Streamlit](https://streamlit.io/) dashboard to easily display the spreadsheet calculations seen on [Retire on Dividends](https://www.youtube.com/@RetireonDividends), dynamically rebalance your portfolio like [M1Finance](https://m1.com/), and view my personal portfolio.
 
 
 ## Future Plans
